@@ -1,3 +1,5 @@
 *.ipynb linguist-detectable=false
 *.R linguist-language=R
 *.py linguist-language=Python
+notebooks/09_subgroup_fairness.ipynb linguist-language=R
+notebooks/10_interpretability.ipynb linguist-language=R
