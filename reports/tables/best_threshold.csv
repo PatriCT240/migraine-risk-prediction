@@ -1,0 +1,2 @@
+threshold,C_FP,C_FN,TP,FP,FN,TN,Cost,Mean_alerts,Sens,Spec,Precision,F1,Youden
+0.47,1.0,1.0,454.0,220.0,70.0,135.0,290.0,0.767,0.866,0.38,0.6735905044510386,0.758,0.247

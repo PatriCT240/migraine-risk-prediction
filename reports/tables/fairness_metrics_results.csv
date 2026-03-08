@@ -1,0 +1,10 @@
+"variable","level","AUC","Sensitivity","Specificity","n","n_pos","n_neg","valid_auc","valid_sens","valid_spec"
+"sex","female",0.857142857142857,NA,1,113,112,1,TRUE,TRUE,TRUE
+"sex","male",NA,NA,NA,20,20,0,FALSE,TRUE,FALSE
+"hatype","Aura",NA,NA,NA,56,56,0,FALSE,TRUE,FALSE
+"hatype","Mixed",NA,NA,NA,12,12,0,FALSE,TRUE,FALSE
+"hatype","No Aura",0.833333333333333,NA,1,65,64,1,TRUE,TRUE,TRUE
+"study_season","autumn",NA,NA,NA,38,38,0,FALSE,TRUE,FALSE
+"study_season","spring",NA,NA,NA,51,51,0,FALSE,TRUE,FALSE
+"study_season","summer",1,NA,1,57,56,1,TRUE,TRUE,TRUE
+"study_season","winter",NA,NA,NA,35,34,1,TRUE,TRUE,TRUE

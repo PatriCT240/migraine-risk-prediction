@@ -1,0 +1,24 @@
+"Variable","Importance"
+"num__prev_attacks",-0.0657727675888515
+"num__visit_number",-0.0335650780609462
+"num__days_since_first_visit",-0.0137808999627394
+"num__airq",0.00180770396434837
+"num__airq_prev_mean",-0.00128921972367951
+"cat__hatype_Aura",-0.010333084362765
+"cat__hatype_Mixed",-0.00141565677210487
+"cat__hatype_No Aura",0
+"cat__medication_continuing",-0.00740558411628572
+"cat__medication_none",-0.0454411102489697
+"cat__medication_reduced",0
+"cat__sex_female",-8.87591566304802e-05
+"cat__sex_male",0
+"cat__study_season_autumn",-0.00852953643760662
+"cat__study_season_spring",9.40597664807474e-05
+"cat__study_season_summer",-0.00134631814164243
+"cat__study_season_winter",0
+"cat__phase_No treatment",0.00116565031824001
+"cat__phase_Under treatment",0
+"cat__age_band_18-30",-0.000528227536651771
+"cat__age_band_31-40",-0.00578238878884108
+"cat__age_band_41-50",-0.00203535951391287
+"cat__age_band_51-66",0

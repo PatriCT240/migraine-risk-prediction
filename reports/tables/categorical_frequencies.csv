@@ -1,0 +1,11 @@
+,variable,category,frequency,percentage
+0,hatype,No Aura,1985,47.81
+1,hatype,Aura,1710,41.18
+2,hatype,Mixed,457,11.01
+3,medication,continuing,2386,57.47
+4,medication,reduced,981,23.63
+5,medication,none,785,18.91
+6,headache,yes,2666,64.21
+7,headache,no,1486,35.79
+8,sex,female,3545,85.38
+9,sex,male,607,14.62
